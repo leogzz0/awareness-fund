@@ -32,7 +32,7 @@ GitHub Repo: https://github.com/leogzz0/awareness-fund
 To install necessary dependencies, follow the next steps and run these commands:
 
 ```bash
-npm i moongose
+npm i ejs-mate ejs body-parser mongoose express nodemon cookie-parser express-session passport passport-local @mapbox/mapbox-sdk
 ```
 
 ## Technologies 
