@@ -7,7 +7,8 @@ This project is a web-page designed with the purpose of connecting users and ass
 
 GitHub Repo: https://github.com/leogzz0/awareness-fund
 
-![Deployment Page](profilepage.png)
+![Login Page](loginpage.png)
+![Profile Page](profilepage.png)
 
 ## Table of Contents 
 
